@@ -10,7 +10,7 @@ const lugares = [
     lat: "24.101493",
     lang: "-110.314203",
     img: "https://tribunadeloscabos.com.mx/wp-content/uploads/2017/10/Convocatoria-UABCS-3-1200x900.jpg",
-    icon: "https://cdn.onlinewebfonts.com/svg/img_377761.png"
+    icon: "https://user-images.githubusercontent.com/40762312/42262073-c2ddb554-7f87-11e8-8a62-f99428c0f226.png"
   },
   {
     name: "Universidad Tecnologico de La Paz",
@@ -18,15 +18,15 @@ const lugares = [
     lat: "24.119796",
     lang: "-110.308317",
     img: "https://media-exp1.licdn.com/dms/image/C4D1BAQEEWS3zx3n8uA/company-background_10000/0?e=2159024400&v=beta&t=k8WNcO5EjGQGI5rhPjrKgVkZHNm9VJ0ATWZHlp7yf1g",
-    icon: "https://cdn.onlinewebfonts.com/svg/img_377761.png"
-  },
+    icon: "https://user-images.githubusercontent.com/40762312/42262073-c2ddb554-7f87-11e8-8a62-f99428c0f226.png"
+  },  
   {
     name: "Universidad Mundial",
     address:"Mariano Abasolo s/n, Pueblo Nuevo, 23090",
     lat: "24.142191",
     lang: "-110.333000",
     img: "https://i1.wp.com/www.bcsnoticias.mx/wp-content/uploads/2016/11/universidad-mundial.jpg?fit=1500%2C1000&ssl=1",
-    icon: "https://cdn.onlinewebfonts.com/svg/img_377761.png"
+    icon: "https://user-images.githubusercontent.com/40762312/42262073-c2ddb554-7f87-11e8-8a62-f99428c0f226.png"
   },
   {
     name: "Soriana forjadores",
@@ -34,7 +34,7 @@ const lugares = [
     lat: "24.125310",
     lang: "-110.312535",
     img: "https://lh5.googleusercontent.com/p/AF1QipPCBctXvbOirori_MAT1vr3NCxrx8BAokEdSGt9=w408-h306-k-no",
-    icon: "https://images.vexels.com/media/users/3/128737/isolated/preview/48e42fba70becce83a35fd88be6d589f-icono-de-servicio-de-compras-redondo-by-vexels.png"
+    icon: "https://image.flaticon.com/icons/png/512/61/61125.png"
   },
   {
     name: "Sushi factory",
@@ -42,7 +42,7 @@ const lugares = [
     lat: "24.126254",
     lang: "-110.312631",
     img: "https://lh5.googleusercontent.com/p/AF1QipMuuktd4zvRY6YqqsgOyvLsJaslNThEKbP_1_jj=w408-h306-k-no",
-    icon: "https://cdn.onlinewebfonts.com/svg/img_217000.png"
+    icon: "https://icons-for-free.com/iconfiles/png/512/restaurant+icon-1320183329368099885.png"
   },
   {
     name: "Sushi Mako",
@@ -50,7 +50,7 @@ const lugares = [
     lat: "24.059438",
     lang: "-110.294469",
     img: "https://lh5.googleusercontent.com/p/AF1QipOwLBb9Sugtjnrt5-Q8EaK_AoybyxINWmUU2sO_=w408-h306-k-no",
-    icon: "https://cdn.onlinewebfonts.com/svg/img_217000.png"
+    icon: "https://icons-for-free.com/iconfiles/png/512/restaurant+icon-1320183329368099885.png"
   },
   {
     name: "Soriana Camino Real",
@@ -58,7 +58,7 @@ const lugares = [
     lat: "24.052969",
     lang: "-110.303125",
     img: "https://lh5.googleusercontent.com/p/AF1QipOMhkUPPlj3LwLvc6M-3L0LyLq8wp8atrS0QKBx=w408-h306-k-no",
-    icon: "https://images.vexels.com/media/users/3/128737/isolated/preview/48e42fba70becce83a35fd88be6d589f-icono-de-servicio-de-compras-redondo-by-vexels.png"
+    icon: "https://image.flaticon.com/icons/png/512/61/61125.png"
   },
   {
     name: "TEX Burguer",
@@ -66,7 +66,7 @@ const lugares = [
     lat: "24.165630",
     lang: "-110.3128314",
     img: "https://lh5.googleusercontent.com/p/AF1QipOGjh6Ota_8JFhvQoisWn2aXffINPlrmiFv6Dhc=w408-h306-k-no",
-    icon: "https://cdn.onlinewebfonts.com/svg/img_217000.png"
+    icon: "https://icons-for-free.com/iconfiles/png/512/restaurant+icon-1320183329368099885.png"
   },
   {
     name: "Just Burguer Colosio",
@@ -74,7 +74,7 @@ const lugares = [
     lat: "24.124969",
     lang: "-110.315806",
     img: "https://lh5.googleusercontent.com/p/AF1QipOjXTxCruadVj3Tl0KDzHfibPLnaOAjNGhK12iT=w426-h240-k-no",
-    icon: "https://cdn.onlinewebfonts.com/svg/img_217000.png"
+    icon: "https://icons-for-free.com/iconfiles/png/512/restaurant+icon-1320183329368099885.png"
   },
   {
     name: "Just Burguer Garzas",
@@ -82,7 +82,7 @@ const lugares = [
     lat: "24.139010",
     lang: "-110.317356",
     img: "https://10619-2.s.cdn12.com/rests/original/311_503605931.jpg",
-    icon: "https://cdn.onlinewebfonts.com/svg/img_217000.png"
+    icon: "https://icons-for-free.com/iconfiles/png/512/restaurant+icon-1320183329368099885.png"
   },
 ];
 
